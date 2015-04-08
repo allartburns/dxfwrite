@@ -96,13 +96,12 @@ or from source::
 Documentation
 -------------
 
-http://dxfwrite.readthedocs.org
-http://packages.python.org/dxfwrite/
-
-The source code repository of dxfwrite can be found at bitbucket.org:
-
+This is a branch from
 http://bitbucket.org/mozman/dxfwrite
 
-Feedback is greatly appreciated.
+Maintained at 
+https://github.com/allartburns/dxfwrite
+by
+jet@allartburns.org
 
-mozman <mozman@gmx.at>
+
