@@ -2,6 +2,11 @@
 News
 ====
 
+Version 0001 - 2015
+  * BRANCH: by jet@allartburns.org
+  * restart version numbering to prevent conflicts
+  * continued to be released under MIT license
+
 Version 1.2.1 - 2014...
 
   * BUGFIX: same layer for polyline and vertex entities (Ken Healy)

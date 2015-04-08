@@ -12,15 +12,19 @@ from dxfwrite.base import *
 from dxfwrite.engine import DXFEngine
 
 
-version = (1, 2, 0)
-VERSION = "%d.%d.%d"  % version
+version = (0001)
+VERSION = "%d"  % version
 
-CYEAR = "2010-2012"
-AUTHOR_NAME = "Manfred Moitzi"
-AUTHOR_EMAIL = "mozman@gmx.at"
+#archive original author name
+#CYEAR = "2010-2012"
+#AUTHOR_NAME = "Manfred Moitzi"
+#AUTHOR_EMAIL = "mozman@gmx.at"
+CYEAR = "2014"
+AUTHOR_NAME = "jet"
+AUTHOR_EMAIL = "jet@allartburns.org"
 LICENSE = "MIT License"
 
-__author__ = "mozman <mozman@gmx.at>"
+__author__ = "jet <jet@allartburns.org>"
 __doc__ = """A Python library to create DXF R12 drawings.
 
 Copyright %s
@@ -45,4 +49,6 @@ IMPLEMENTED R12 WRITING:
 NOT IMPLEMENTED:
 - DIMENSION (use LinearDimension, AngularDimension, ArcDimension or
              RadialDimension)
+original author: Manfred Moitzi, mozman@gmx.at
+maintainer of this branch:
 """ % (AUTHOR_NAME, VERSION, LICENSE,)

@@ -45,8 +45,8 @@ copyright = "2010-2011, Manfred Moitzi"
 # |version| and |release|, also used in various other places throughout the
 # built documents.
 #
-# The short X.Y version.
-version = "1.1.0"
+# switch to NNNN versioning
+version = "0001"
 # The full version, including alpha/beta/rc tags.
 release = version
 
