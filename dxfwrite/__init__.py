@@ -12,8 +12,8 @@ from dxfwrite.base import *
 from dxfwrite.engine import DXFEngine
 
 
-version = (0001)
-VERSION = "%d"  % version
+version = "0001"
+VERSION = "%s"  % version
 
 #archive original author name
 #CYEAR = "2010-2012"
